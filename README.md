@@ -1,5 +1,5 @@
 #🎓 Quiz Management System (C++ Console Application)
-📋 Description
+📋 Description <br>
 This C++ project is a console-based Quiz Management System that allows students to take quizzes from three subjects: Mathematics, Science, and Computer Science. Each quiz consists of multiple-choice questions (MCQs) with options A–D. The application evaluates the user's answers and provides a final score with a pass/fail result based on a predefined passing criteria.
 
 🧠 Features
