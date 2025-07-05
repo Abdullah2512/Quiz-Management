@@ -7,7 +7,7 @@ This C++ project is a console-based Quiz Management System that allows students 
 📚 Three subject categories:
 1. Mathematics
 2. Science
-3. Computer Science
+3. Computer 
 
 📑 Each subject includes up to 30 well-structured MCQs
 ✅ Instant feedback on each answer (Correct/Incorrect)
